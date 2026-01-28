@@ -7,7 +7,7 @@
 
 <div style="text-align: center;" align="left">
   
-![Image](https://github.com/user-attachments/assets/ade719cd-8dc3-45d3-9cb2-e676b60e9dd1)
+
 </div>
 
 #
